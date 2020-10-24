@@ -7,4 +7,7 @@ This is a labor of love, and is licensed under the GPL version 2, but the main b
 
 This resource pack does NOT require Optifine.
 
+SERVER OWNERS:
+Place the item-models.yml file in your <serverroot>/plugins/slimefun/ directory, and overwrite the default one, then restart your server.  This is for Spigot based servers (including Paper and the likes) only.
+
 Use at your own risk, but I can honestly say it's working pretty well so far.
