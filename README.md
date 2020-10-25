@@ -11,3 +11,7 @@ SERVER OWNERS:
 Place the item-models.yml file in your <serverroot>/plugins/slimefun/ directory, and overwrite the default one, then restart your server.  This is for Spigot based servers (including Paper and the likes) only.
 
 Use at your own risk, but I can honestly say it's working pretty well so far.
+
+Screenshots:
+![a](https://i.ibb.co/VL235dJ/a.png)![b](https://i.ibb.co/bXnb6dR/b.png)
+![c](https://i.ibb.co/cc4fJ2K/c.png)![d](https://i.ibb.co/8KhwqVJ/d.png)
