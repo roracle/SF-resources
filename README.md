@@ -13,5 +13,6 @@ Place the item-models.yml file in your <serverroot>/plugins/slimefun/ directory,
 Use at your own risk, but I can honestly say it's working pretty well so far.
 
 Screenshots:
+
 ![a](https://i.ibb.co/VL235dJ/a.png)![b](https://i.ibb.co/bXnb6dR/b.png)
 ![c](https://i.ibb.co/cc4fJ2K/c.png)![d](https://i.ibb.co/8KhwqVJ/d.png)
